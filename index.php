@@ -1,6 +1,6 @@
 <?php
 ob_start();
-define('API_KEY','1455400165:AAHPlfhtfMJP0GvgxnPW6-n_GkBuk9i79r0');
+define('API_KEY','888141727:AAECVND8gXuVvIB_QEFi9daIoUcTFv07zH0');
 $adminkanal = "-1001449102359";
 $admin = 621617473; //user id admin
 $mybot="@Nazoratuzb_bot";
